@@ -1,0 +1,25 @@
+N: 100
+K: 3
+l: 3
+prng: 10
+avg_degree: 10
+structure: 'assortative'
+label: 'test'
+beta : 5
+gamma : 0.01
+corr : 1.
+over : 0.
+verbose: 1
+folder: '../../data/input/'
+output_parameters: True
+output_adj: True
+outfile_adj: null
+use_leagues: True
+means:
+  - -4
+  - 0
+  - 4
+stds:
+  - 1
+  - 0.5
+  - 1

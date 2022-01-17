@@ -1,0 +1,11 @@
+numpy==1.17
+numba
+pandas
+sklearn
+scikit-tensor-py3
+scipy==1.3
+sparse
+networkx
+argparse
+termcolor
+pyyaml

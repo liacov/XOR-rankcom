@@ -1,0 +1,11 @@
+rseed: 42
+err: 0.1
+inf: 10000000000.0
+err_max: 0.000000000001
+verbose: 0
+initialization: 0
+out_inference: True
+out_folder: "../data/output/SR/"
+cv: False
+gt: True
+classification: False

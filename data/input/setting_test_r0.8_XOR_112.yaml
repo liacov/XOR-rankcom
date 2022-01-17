@@ -1,0 +1,26 @@
+K: 3
+N: 100
+avg_degree: 10
+beta: 5
+corr: 1.0
+folder: ../data/input/
+gamma: 0.01
+l: 3
+label: test_r0.8_XOR
+means:
+- -4
+- 0
+- 4
+mu: 0.8
+outfile_adj: null
+output_adj: true
+output_parameters: true
+over: 0.0
+prng: 112
+stds:
+- 1
+- 0.5
+- 1
+structure: assortative
+use_leagues: true
+verbose: 1
