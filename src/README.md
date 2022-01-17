@@ -73,7 +73,7 @@ python main.py --help
 
 ## Full demo
 
-We provide a Jupyter Notebook [`XOR_demo.ipynb`](`XOR_demo.ipynb`) containing an easy-to-use interface with the XOR generative model and
+We provide a Jupyter Notebook [`XOR_demo.ipynb`](https://github.com/liacov/XOR-rankcom/blob/main/src/XOR_demo.ipynb) containing an easy-to-use interface with the XOR generative model and
 the XOR inference model.
 If not using Anaconda or another similar distribution, you will need to install `jupyter`:
 
