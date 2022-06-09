@@ -2,7 +2,7 @@
 
 Python implementation of XOR algorithm described in:
 
-- [1] Iacovissi L. and De Bacco C. (2022). _The interplay between ranking and communities in networks_, Sci Rep 12, 8992, https://doi.org/10.1038/s41598-022-12730-3. 
+- [1] Iacovissi L. and De Bacco C. (2022). _The interplay between ranking and communities in networks_, Sci Rep 12, 8992.
 
 If you use this code please cite this [article](https://www.nature.com/articles/s41598-022-12730-3) (_published version, open access_) or this [article](http://arxiv.org/abs/2112.12670) (_preprint_).
 
