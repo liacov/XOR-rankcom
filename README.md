@@ -2,9 +2,9 @@
 
 Python implementation of XOR algorithm described in:
 
-- [1] Iacovissi L. and De Bacco C. (2021). _The interplay between ranking and communities in networks_, [arXiv:2112.12670](http://arxiv.org/abs/2112.12670).
+- [1] Iacovissi L. and De Bacco C. (2022). _The interplay between ranking and communities in networks_, Sci Rep 12, 8992, https://doi.org/10.1038/s41598-022-12730-3. 
 
-If you use this code please cite this [article](http://arxiv.org/abs/2112.12670) (_preprint_).
+If you use this code please cite this [article] (https://www.nature.com/articles/s41598-022-12730-3) (_published version, open access_) or this [article](http://arxiv.org/abs/2112.12670) (_preprint_).
 
 We present a new generative model based on an interplay between the community and hierarchical structures. It assumes each node to have a preference between the homophily-based (community) and the competition-based (hierarchy) interaction mechanisms. Nodes with the same predilection are more likely to interact, while heterogeneous interactions are still allowed. Using variational inference, we derive an inference model capable of accurately learn node types, communities and node ranking.
 
